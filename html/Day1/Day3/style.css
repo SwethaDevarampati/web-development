@@ -1,0 +1,21 @@
+h1 {
+    color: green;
+}
+
+table, 
+table th, 
+table td {
+    border: 3px solid white;
+    border-collapse: collapse;
+
+    padding: 10px 20px;
+}
+
+table th {
+    background-color: red;
+    color: white;
+}
+
+table td {
+    background-color: aqua;
+}

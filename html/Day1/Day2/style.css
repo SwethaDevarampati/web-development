@@ -1,0 +1,34 @@
+*{
+    font-family: Arial, Helvetica, sans-serif;
+}
+body{
+    background-color: aqua;
+    background-image: url("https://i.ytimg.com/vi/zB6BbmlaFzo/maxresdefault.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+h1 {
+    color: aliceblue;
+    text-align: center;
+    margin-top: 150px;
+    font-size: 50px;
+    text-transform: uppercase;
+}
+ .days {
+    color: aliceblue;
+    text-align: center;
+
+    border-top: 1px solid lightgray;
+    padding: 10px 30px;
+    width: fit-content;
+    margin: auto;
+ }
+ 
+ 
+ .footer{
+    color: aliceblue;
+    margin-top: 300px;
+ }
+ p{
+    color: aliceblue;
+ }
